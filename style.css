@@ -1,0 +1,55 @@
+.container {
+   display: flex;
+   flex-direction: column;
+}
+.smallgroup{
+	border: 3px groove;
+	padding: 3px;
+	background-color: #f7f7f7;
+}
+
+.bigtext{
+
+	padding: 3px;
+	background-color: white;
+	display: none;
+	border: 3px groove;
+}
+
+.smallgroup2{
+		border: 3px groove;
+	padding: 3px;
+	background-color: #f7f7f7;
+}
+
+.bigtext2{
+
+	padding: 3px;
+	background-color: white;
+	display: none;
+	border: 3px groove;
+}
+
+.smallgroup3{
+		border: 3px groove;
+	padding: 3px;
+	background-color: #f7f7f7;
+}
+
+.bigtext3{
+padding: 3px;
+	background-color: white;
+	display: none;
+	border: 3px groove;
+}
+
+a {
+    text-decoration: none;
+}
+a:link, a:visited {
+    color: blue;
+}
+
+a:hover
+{   text-decoration: none;
+color: blue;}
